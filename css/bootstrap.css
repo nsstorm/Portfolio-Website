@@ -1122,9 +1122,10 @@ img {
 .thumbnail a > img,
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
-  display: block;
-  max-width: 100%;
-  height: auto;
+	display: block;
+	max-width: 100%;
+	height: auto;
+	margin: auto auto;
 }
 .img-rounded {
   border-radius: 6px;
@@ -1289,7 +1290,8 @@ h6,
   font-size: 12px;
 }
 p {
-  margin: 0 0 10px;
+	margin: 0 0 10px;
+	font-size: 36px;
 }
 .lead {
   margin-bottom: 20px;
