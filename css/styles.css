@@ -153,3 +153,10 @@ p {
 	border: none;
 		
 }
+
+.btn-sm {
+	background-color: rgba(6,37,45,0.29);
+	border-color: transparent;
+	color: #9d9d9d;
+}
+
