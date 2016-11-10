@@ -3563,6 +3563,7 @@ tbody.collapse.in {
 	color: #fff;
 	text-decoration: none;
 	background-color: rgba(241,233,218,0.23);
+	text-align: right;
 }
 .dropdown-menu > .active > a,
 .dropdown-menu > .active > a:hover,
