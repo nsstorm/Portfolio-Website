@@ -83,14 +83,12 @@ p {
 
 .homefooter {
 	height: 15%;
-	margin-bottom: 0px;
 	max-height: 45px;
 	color: #f1e9da;
 	font-family: colabmed;
 	font-weight: normal;
 	font-size: medium;
 	text-align: center;
-
 	background-color: rgba(115,148,201,0.31);
 }
 
@@ -127,6 +125,7 @@ p {
 	font-family: colabmed;
 	font-weight: bold;
 	color: #112c3f;
+	text-align: center;
 }
 
 .content_sections {
@@ -137,9 +136,9 @@ p {
 	margin-right: 7.5%;
 	margin-left: 7.5%;
 	margin-bottom: 10px;
-	text-align: justify;
-	max-width: 85%;
+	max-width: 75%;
 	min-width: 85%;
+	text-align: justify;
 }
 
 #image {
@@ -150,7 +149,7 @@ p {
 }
 
 .dropdown-menu {
-	width: 80px;
+	width: 100px;
 	min-width: 80px;
 	text-align: right;
 }
@@ -164,4 +163,41 @@ p {
 	background-color: rgba(6,37,45,0.29);
 	border-color: transparent;
 	color: #9d9d9d;
+}
+
+.homelink {
+	color: #041113;
+	font-family: colabmed;
+	text-decoration: underline;
+}
+
+.contactform {
+	background-color: rgba(115,148,201,0.31);
+	margin-bottom: 25%;
+	max-width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 10px;
+	margin-top: 20px;
+}
+
+#contact_form {
+	margin-left: 25px;
+	margin-right: 25px;
+	border-radius: 10px;
+	font-family: colabmed;	
+}
+
+#submit_button {
+	font-family: colabmed;
+	background-color: rgba(10,40,47,0.27);
+	border-radius: 10px;
+	color: rgba(255,255,255,1.00);
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+
+.portfolio-content {
+	margin-left: auto;
+	margin-right: auto;
 }
