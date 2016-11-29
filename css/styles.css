@@ -173,12 +173,12 @@ p {
 
 .contactform {
 	background-color: rgba(38,62,77,0.48);
-	margin-bottom: 25%;
+	margin-bottom: 10%;
 	max-width: 80%;
 	margin-left: auto;
 	margin-right: auto;
 	border-radius: 10px;
-	margin-top: 20px;
+	margin-top: 10%;
 	color: #D2D2D2;
 }
 
@@ -218,7 +218,11 @@ p {
 #thank-you {
 	margin-top: 10%;
 	padding: 2%;
-	margin-bottom: 50%;
+	margin-bottom: 55%;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+#home {
+	margin-top: 20%;
 }
